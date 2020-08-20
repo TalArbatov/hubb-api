@@ -19,7 +19,7 @@
   "homepage": "https://github.com/TalArbatov/hubb-api#readme",
   "dependencies": {
     "aws-sdk": "^2.486.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bcrypt-nodejs": "0.0.3",
     "chalkify": "^1.0.12",
     "connect-flash": "^0.1.1",
